@@ -12,7 +12,7 @@
 #define DHTPIN  14
 
 const char* ssid     = "The Burrow 2.4";
-const char* password = "PerdidoKey13";
+const char* password = "WifiKey";
 
 ESP8266WebServer server(80);
  
